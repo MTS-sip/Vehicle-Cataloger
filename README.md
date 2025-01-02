@@ -3,11 +3,11 @@
  Repo, public @ [GitHub] 
 
 **🔴 Screencastify Demonstration Video 🔴**: To access Video > [Click link](https://drive.google.com/file/d/1G5KV2PkefLRhdnGFeqrvW8v3v8XVHC3-/view)
-[ Watch video to view functionality of the CLI app ]
+[Watch video to view functionality of the CLI app]
 
 
-## Description
-Typescript app allows user to review, create add compile vehicle information; and also interact with Driveable interface actions.
+## Description 
+Typescript app allows user to review, create add compile vehicle information; user can also interact with Driveable interface actions.
 
 ### Table of Contents
 - [Usage & Testing](#usage--testing)
@@ -33,7 +33,7 @@ User runs CLI app in terminal via index.ts using command: ``npm start``
 
 
 ### Technology
-Key technology used for this Project include :
+Key technology used for this Project include:
 
 [VS Code](https://code.visualstudio.com/)
 
