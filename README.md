@@ -2,53 +2,61 @@
 
  Repo, public @ [GitHub](https://github.com/MTS-sip/Vehicle-Cataloger)
 
-## Screencastify demonstration video
+**🔴 Screencastify Demonstration Video 🔴**:  
+[Click following link to watch video showing functionality of the CLI app]
 
-Description
-App allows user to easily create a professional README md file, which facilitates user having more time for creating code for their Project/Repo.
+
+**Description**
+Typescript app allows user to review, create add compile vehicle information; and also interact with Driveable interface actions
 
 ### Table of Contents
-Usage
-Images
+Usage & Testing
 License
 Technology
 Contributing
-Story
 README
-Usage & Testing
+User Story
+Acceptance Criteria 
 
-This app may be used via an IDE(e.g. VS Code) by cloning Repo code or otherwise downloading it for intended use from a MTS-Sip Repo @ Github, [SSH] git@github======
+### Usage & Testing
+
+This app may be used via an IDE(e.g. VS Code) by cloning Repo code or otherwise downloading it for intended use from a MTS-Sip Repo @ Github, [SSH] git@github.com:MTS-sip/Vehicle-Cataloger.git
+
 
 User runs CLI app in terminal via index.ts using command: ``npm start``
 
-Images
-Images located in assets folder, are snips from video showing a sample of user generated README.
-
-Pic-Page 1
-Pic Page 2
-
-## License
+### License
 ![License] This project is licensed under the MIT
 [License Badge]
 
-Technology
+### Technology
 Key technology used for this Project include:
 
-VS Code VSC
+[VS Code VSC](https://code.visualstudio.com/docs/languages/typescript)
+
 [Typescript](https://code.visualstudio.com/docs/languages/typescript)
-GitHub 
+
+[Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 [npm Inquirer](https://www.npmjs.com/package/inquirer)
-CoPilot for GitHub:
+
+[CoPilot for GitHub](https://github.com/features/copilot)
+
 Contributing MTS-Sip @ [https://github.com/MTS-sip]
 
-README
-README
+### README
+
+[README](https://github.com/MTS-sip/Vehicle-Cataloger/blob/main/README.md)
+
 
 ### User Story
+
 AS a developer 
-I WANT to update an existing application to include additional vehicle types SO THAT I am able to comprehend and work with existing code bases
+I WANT to update an existing application to include additional vehicle types 
+SO THAT I am able to comprehend and work with existing code bases
 
 ### Acceptance Criteria 
+
 GIVEN a command-line application that accepts user input 
 WHEN I am prompted to create a new vehicle or existing vehicle 
 THEN I can choose between the two options 
