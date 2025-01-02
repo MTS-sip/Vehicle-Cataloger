@@ -1,8 +1,8 @@
 # Vehicle-Cataloger
 
- Repo, public @ [GitHub] 
+ Repo, public @ [Github Repo](https://github.com/MTS-sip/Vehicle-Cataloger)
 
-**🔴 Screencastify Demonstration Video 🔴**: To access Video > [Click link](https://drive.google.com/file/d/1G5KV2PkefLRhdnGFeqrvW8v3v8XVHC3-/view)
+**🔴 Screencastify Demonstration Video 🔴**: To access Video > [Click here](https://drive.google.com/file/d/1G5KV2PkefLRhdnGFeqrvW8v3v8XVHC3-/view)
 [Watch video to view functionality of the CLI app]
 
 
