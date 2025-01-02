@@ -37,7 +37,7 @@ Key technology used for this Project include:
 VS Code VSC
 Typescrypt 
 GitHub 
-npm Inquirer
+[npm Inquirer](https://www.npmjs.com/package/inquirer)
 CoPilot for GitHub:
 Contributing
 MTS-Sip @ [https://github.com/MTS-sip]
