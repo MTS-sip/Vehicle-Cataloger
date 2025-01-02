@@ -1,6 +1,6 @@
 # Vehicle-Cataloger
 
- Repo, public @ GitHub
+ Repo, public @ [GitHub](https://github.com/MTS-sip/Vehicle-Cataloger)
 
 ## Screencastify demonstration video
 
@@ -19,7 +19,7 @@ Usage & Testing
 
 This app may be used via an IDE(e.g. VS Code) by cloning Repo code or otherwise downloading it for intended use from a MTS-Sip Repo @ Github, [SSH] git@github======
 
-User runs CLI app in terminal via command: ``npm start``
+User runs CLI app in terminal via index.ts using command: ``npm start``
 
 Images
 Images located in assets folder, are snips from video showing a sample of user generated README.
@@ -35,12 +35,11 @@ Technology
 Key technology used for this Project include:
 
 VS Code VSC
-Typescrypt 
+[Typescript](https://code.visualstudio.com/docs/languages/typescript)
 GitHub 
 [npm Inquirer](https://www.npmjs.com/package/inquirer)
 CoPilot for GitHub:
-Contributing
-MTS-Sip @ [https://github.com/MTS-sip]
+Contributing MTS-Sip @ [https://github.com/MTS-sip]
 
 README
 README
